@@ -12,6 +12,7 @@ This is an implementation of a Keras Convolutional Neural Network (CNN) and Atte
 * FG-NET [https://yanweifu.github.io/FG_NET_data/]
 * UTKFace [https://susanqq.github.io/UTKFace/]
 * CACD [https://bcsiriuschen.github.io/CARC/]
+* Facial-age [https://www.kaggle.com/datasets/frabbisw/facial-age]
 
 ### To use the Age Estimation code from the GitHub repo:
 
