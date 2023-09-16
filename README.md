@@ -13,3 +13,8 @@ This is an implementation of a Keras Convolutional Neural Network (CNN) and Atte
 * UTKFace [https://susanqq.github.io/UTKFace/]
 * CACD [https://bcsiriuschen.github.io/CARC/]
 
+### To use the Age Estimation code from the GitHub repo:
+
+1. Download the dataset and specify its path in the "folder_path" variable in the code.
+2. Run the code to perform age estimation.
+
